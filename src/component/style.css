@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+    justify-items: center;
+    font-size: 18px;
+    height: 100px;
+    background-color:brown
+}
+.sideNav{
+    /* display: inline-block; */
+    margin: 16px 16px 16px 16px;
+    height: 410px;
+    width: 411px;
+    background-color: aqua;
+}
+.body{
+    width: 875px;
+    margin: 16px 16px 16px 16px;
+    background-color: black;
+    color: aliceblue;
+}
+.new{
+    display: inline-block;
+}
+.footer{
+    background-color: blueviolet;
+    height: 105px;
+}
